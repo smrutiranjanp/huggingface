@@ -1,3 +1,5 @@
 gradio
 spaces
 torch
+transformers
+accelerate
